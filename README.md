@@ -16,7 +16,7 @@
   </p>
 
 <div align="center">
-  <img src="https://files.catbox.moe/f4q8fh.jpg" width="300" style="border-radius: 20px; box-shadow: 0 0 20px #00ffff;"/>
+  <img src="https://files.catbox.moe/91znmc.webp" width="300" style="border-radius: 20px; box-shadow: 0 0 20px #00ffff;"/>
 </div>
 
          `DEPLOMENT STEPS`
@@ -48,7 +48,7 @@
 <p style="text-align: center; font-size: 1.2em;">
   
 <p align="">
-<a href='https://bmb-website-code-generator.onrender.com/pair' target="_blank"><img alt='Netlify' src='https://img.shields.io/badge/-session site-CC00FF?style=for-the-badge&logo=session&logoColor=white'/< width=150 height=28/p></a> </a>
+<a href='https://bmb-zqqf.onrender.com' target="_blank"><img alt='Netlify' src='https://img.shields.io/badge/-session site-CC00FF?style=for-the-badge&logo=session&logoColor=white'/< width=150 height=28/p></a> </a>
 <a><img
 
      
@@ -56,7 +56,7 @@
 <p style="text-align: center; font-size: 1.2em;">
   
 <p align="">
-<a href='https://bmb-website-code-generator.onrender.com' target="_blank"><img alt='Netlify' src='https://img.shields.io/badge/-session site-CC00FF?style=for-the-badge&logo=session&logoColor=white'/< width=150 height=28/p></a> </a>
+<a href='https://bmb-zqqf.onrender.com' target="_blank"><img alt='Netlify' src='https://img.shields.io/badge/-session site-CC00FF?style=for-the-badge&logo=session&logoColor=white'/< width=150 height=28/p></a> </a>
 <a><img
 
 
